@@ -1,3 +1,2 @@
 # git-test
-Repo
-Hello Odin!
+I'm making a page to store all my recipes.
